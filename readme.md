@@ -1,5 +1,8 @@
 # Exam, Python elective Spring 2019
 
+> Exam dates: 14/6, 17/6, 18/6
+> Project Hand-in date: 3/6
+
 ## Exam flow
 The exam is an oral exam, and are evaluated after the 7 step scale.
 
@@ -14,7 +17,7 @@ If you fail to hand in the project, you can not attend the exam.
 Exam time: Total 30 min.  
 * 2-3 min. presentation and demo of your project (not the code)
 * 7-8 min. questions about your project (here we look at your code)
-* 10-12 min. general questions in curriculum  
+* 10-12 min. general questions based on the curriculum  
 * 5 min. grading and feed-back
 * 5 minutes buffer
 
@@ -29,7 +32,7 @@ During the exam the student will be asked to do "live coding".
 
 The projects from where the student should choose one exam project are:
 
-# General form all projects
+# General all projects
 * The project should be finished, meaning: don´t show up at the exam with something half done.
 * The code should be documented and you should be able to explain why you documented your code in the way you did. 
 * The code should be tested and you should at the exam be abel to talk about your tests and demonstate them.
