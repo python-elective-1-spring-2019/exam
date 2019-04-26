@@ -1,6 +1,6 @@
 # Exam, Python elective Spring 2019
 
-> Exam dates: 14/6, 17/6, 18/6
+> Exam dates: 14/6, 17/6, 18/6  
 > Project Hand-in date: 3/6
 
 ## Exam flow
