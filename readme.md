@@ -38,6 +38,6 @@ The projects from where the student should choose one exam project are:
 * The code should be tested and you should at the exam be abel to talk about your tests and demonstate them.
 
 # Specific projects
-The specific projects will be availiable from Tuesday 21-05-2019
+The specific projects will be availiable from Tuesday 14-05-2019
 
 
