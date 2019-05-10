@@ -38,11 +38,10 @@ The projects from where the you should choose 1 exam project are:
 The specific projects will be availiable from Tuesday 14-05-2019
 
 # General for all projects
-* The project should be finished, meaning: don´t show up at the exam with something half done.
-* Your project and code will be evaluated on readabillity.
+* The project should be finished, meaning: don´t hand in and show up at the exam with something half done.
+* Your code will be evaluated in terms of readability
+* Your project will be evaluated in relation to the extent to which it is perceived as a finished product.
 * The code should be documented and you should be able to explain why you documented your code in the way you did. 
 * The code should be tested and you should at the exam be abel to talk about your tests and demonstate them.
-
-
 
 
