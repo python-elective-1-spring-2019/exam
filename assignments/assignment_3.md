@@ -1,6 +1,7 @@
 > Assignment 3
 # Help the police find the criminals
-![Police](src/hkad5cxcfifayeqkfc0d.jpeg)
+![Police](src/hkad5cxcfifayeqkfc0d.jpeg)   
+
 Based on the dataset in the [SacramentocrimeJanuary2006.csv](src/SacramentocrimeJanuary2006.csv) file you should create a console application.  
 
 * In the application you should be able to search for crimes based on the data in the different columns in the dataset.
